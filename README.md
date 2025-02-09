@@ -1,6 +1,8 @@
 # Encrypted
 This repository contains the implementation and deliverables for the encrypted data prediction task. The objective was to analyze an encrypted dataset, apply machine learning models, and generate predictions for both training and test datasets while adhering to given guidelines.
-#Project Overview
+
+# Project Overview
+
 1. Performed Exploratory Data Analysis (EDA) to understand feature distributions and handle data preprocessing.
 2. Implemented Support Vector Machine (SVM) and XGBoost, as both performed similarly in evaluation.
 3. Tuned Random Forest but observed overfitting, so it was not used in final predictions.
